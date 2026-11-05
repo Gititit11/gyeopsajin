@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# 안드로이드 앱 빌드 찌꺼기
+.gradle/
+build/
+app/build/
+core/build/
+local.properties
+.idea/
+*.iml

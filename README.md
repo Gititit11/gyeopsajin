@@ -77,7 +77,7 @@
 APK 를 만들어 릴리스에 올립니다. 폰에서 아래 주소를 누르면 APK 가 바로 받아집니다.
 
 ```
-https://github.com/Gititit11/test/releases/latest/download/gyeopsajin.apk
+https://github.com/Gititit11/gyeopsajin/releases/latest/download/gyeopsajin.apk
 ```
 
 받은 파일을 한 번 더 누르면 설치 화면이 뜹니다. 구글 플레이를 거치지 않는 앱이라
